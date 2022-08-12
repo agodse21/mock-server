@@ -1,0 +1,25 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agodse21/mock-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agodse21/mock-server/issues"
+  },
+  "homepage": "https://github.com/agodse21/mock-server#readme",
+  "dependencies": {
+    "json-server": "^0.4.2",
+    "module": "^1.0.0",
+    "node": "^18.7.0"
+  }
+}

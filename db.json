@@ -2268,192 +2268,92 @@
     {
       "id": 1,
       "no_of_chapters": 6,
-      "author": "Masai ",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Blake Crouch",
+      "cover_photo": "https://m.media-amazon.com/images/I/816rNhXOB8L._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "Dark Matter: The Most Mind-Blowing And Twisted Thriller Of The Year",
       "category": "Novel",
-      "release_year": 2019,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2017
     },
     {
       "id": 2,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
-      "category": "Science_Fiction",
-      "release_year": 2020,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "author": "Nidhi Upadhyay",
+      "cover_photo": "https://m.media-amazon.com/images/I/81b1PP4RK1L._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "That Night: Four Friends. Twenty Years. One Haunting Secret",
+      "category": "Novel",
+      "release_year": 2021
     },
     {
       "id": 3,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Colleen Hoover ",
+      "cover_photo": "https://m.media-amazon.com/images/I/71jte84ADvL._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "VERITY",
       "category": "Novel",
-      "release_year": 2021,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2022
     },
     {
       "id": 4,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Blake Crouch ",
+      "cover_photo": "https://m.media-amazon.com/images/I/816rNhXOB8L._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "Dark Matter: The Most Mind-Blowing And Twisted Thriller Of The Year",
       "category": "Science_Fiction",
-      "release_year": 2022,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2017
     },
     {
       "id": 5,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Sadath Ali",
+      "cover_photo": "https://m.media-amazon.com/images/I/61KYbaJUdyL._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "The Last Ritual: Dawn of Darkness",
       "category": "Thriller",
-      "release_year": 2018,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2022
     },
     {
       "id": 6,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Agatha Christie",
+      "cover_photo": "https://m.media-amazon.com/images/I/411tL00f0lL._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "Death in the Clouds (Poirot)",
       "category": "Thriller",
-      "release_year": 2017,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2017
     },
     {
       "id": 7,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Ruskin Bond",
+      "cover_photo": "https://m.media-amazon.com/images/I/71e9MY-XE9L._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "The Blue Umbrella",
       "category": "Novel",
-      "release_year": 2016,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 1992
     },
     {
       "id": 8,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Michael Shermer ",
+      "cover_photo": "https://m.media-amazon.com/images/I/41cQwQaqa8L._AC_UY327_FMwebp_QL65_.jpg ",
+      "book_name": "Science Friction: Where the Known Meets the Unknown",
       "category": "Science_Fiction",
-      "release_year": 2015,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2010
     },
     {
       "id": 9,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "APJ Abdul kalam",
+      "cover_photo": "https://m.media-amazon.com/images/I/61xPDmYV7SL._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "Learning How to Fly: Life Lessons for the Youth",
       "category": "Motivational",
-      "release_year": 2014,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2016
     },
     {
       "id": 10,
       "no_of_chapters": 6,
-      "author": "Masai",
-      "cover_photo": "",
-      "book_name": "Full-Stack Web Development",
+      "author": "Héctor García",
+      "cover_photo": "https://m.media-amazon.com/images/I/814L+vq01mL._AC_UY327_FMwebp_QL65_.jpg",
+      "book_name": "Ikigai: The Japanese secret to a long and happy life",
       "category": "Motivational",
-      "release_year": 2013,
-      "chapters": [
-        {
-          "name": "HTML",
-          "pages": 20
-        },
-        {
-          "name": "CSS",
-          "pages": 25
-        }
-      ]
+      "release_year": 2017
     }
   ]
 }
